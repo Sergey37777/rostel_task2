@@ -1,0 +1,7 @@
+/Задания/
+.idea/
+/venv/
+__pycache__/
+*.pyc
+/LOGS/
+.env
